@@ -1,0 +1,28 @@
+{
+    "remove":{
+        "user": {
+                "name": "Gabriela Ribeiro",
+                "email": "gabiribeiro@hotmail.com",
+                "password": "pwd123"
+        },
+        "task": {
+                    "name": "Pagar cartão de crédito",
+                    "tags": [
+                        "ark", 
+                        "nanotech", 
+                        "friday"
+                    ]
+
+                }
+    },
+    "not_found": {
+        "user": {
+                "name": "Anne Martins",
+                "email": "annemartins@hotmail.com",
+                "password": "pwd123"
+        },
+        "task": {
+                    "name": "Limpar casa"
+        }
+    }
+}

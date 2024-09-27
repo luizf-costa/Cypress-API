@@ -1,0 +1,27 @@
+{
+    "update":{
+        "user": {
+            "name": "Tiago Ribeiro",
+            "email": "tribeiro@hotmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Viajar em Setembro", 
+            "tags": [
+                "BR",
+                "ES"
+            ]
+
+        }
+    },
+    "not_found": {
+        "user": {
+                "name": "Livia Torres",
+                "email": "liviatorres@hotmail.com",
+                "password": "pwd123"
+        },
+        "task": {
+                    "name": "Viajar para o BR"
+        }
+    }
+}

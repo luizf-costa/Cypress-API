@@ -1,0 +1,45 @@
+{
+    "list":{
+        "user":{
+            "name": "Luiz Felipe",
+            "email": "lfelipe@yahoo.com",
+            "password": "pwd123"
+        },
+        "tasks": [
+            {
+                "name": "Estud4r",
+                "tags": ["Cypress", "JS", "nodejs"]
+            },
+            {
+                "name": "Estud4ar Ingles",
+                "tags": ["linguas"]
+            }
+        ]
+
+    },
+    "unique": {
+        "user": {
+                "name": "Gabriela Paiva",
+                "email": "gabipaiva@hotmail.com",
+                "password": "pwd123"
+        },
+        "task": {
+                    "name": "Construir a Mark87",
+                    "tags": [
+                        "ark", 
+                        "nanotech", 
+                        "friday"
+                    ]
+        }
+    },
+    "not_found": {
+        "user": {
+                "name": "Anne Brasil",
+                "email": "annebr@hotmail.com",
+                "password": "pwd123"
+        },
+        "task": {
+                    "name": "Construir uma máquina"
+        }
+    }
+}

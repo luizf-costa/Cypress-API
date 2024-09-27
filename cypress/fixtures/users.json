@@ -1,0 +1,31 @@
+{
+    "login": {
+        "name": "Jennifer Aniston",
+        "email": "jennifer@hotmail.com",
+        "password": "pwd123"
+    },
+    "inv_pass":{
+        "email": "jennifer@hotmail.com",
+        "password": "pwd1236"
+    },
+    "email_404":{
+        "email": "jennifere@hotmail.com",
+        "password": "pwd1236"
+    },
+    "create": {
+        "name": "Luiz Costa",
+        "email": "luiz@yahoo.com",
+        "password": "pwd123"
+    },
+    "dup_email": {
+        "name": "Luiz Costa",
+        "email": "luiz@yahoo.com",
+        "password": "pwd123"
+    },
+    "required": {
+        "name": "Luiz Costa",
+        "email": "luiz@yahoo.com",
+        "password": "pwd123"
+    }
+
+}
